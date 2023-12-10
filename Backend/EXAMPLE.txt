@@ -1,0 +1,902 @@
+POST NUMBER 1
+
+price=3850000
+area=2015
+bedrooms=3
+bathrooms=1
+stories=2
+mainroad=yes
+guestroom=no
+basement=yes
+hotwaterheating=no
+airconditioning=no
+parking=0
+prefarea=yes
+furnishingstatus=semi-furnished
+Text for this post:
+🏡 Dream Home Alert! 🌟✨
+
+Experience luxury living in this stunning real estate gem! 😍💎 This beautifully designed house could be yours for just $3,850,000! With a spacious area of 2015 sq. ft., this property offers a perfect blend of comfort and style. 💫
+
+Featuring 3 charming bedrooms, you'll have plenty of space to relax and unwind after a long day. 🛌✨ The two-story layout adds an element of grandeur, giving you a beautiful space to call your own. 🏰💕
+
+Imagine hosting amazing gatherings in the fully furnished basement, perfect for creating unforgettable memories with friends and family. 🎉🥳 Additionally, the main road accessibility and preferred location make commuting a breeze, ensuring a convenient lifestyle. 🚗📍
+
+While there may be one bathroom, don't despair! The pure joy of customizing this space to your liking awaits you. 🛁💦
+
+Though it doesn't include a guest room, this allows you to focus on creating a more personalized haven within your dream home. 💫😊
+
+Take your relaxation to the next level with a future hot water heating or air conditioning installation. You'll be living in ultimate comfort, no matter the season! ☀️❄️
+
+Parking may currently be limited, but when imagination sets in, possibilities are endless! 🚘✨ Let your creativity run wild and design a parking spot that suits your style and needs. 🎨💕
+
+If you've been searching for a semi-furnished paradise, the wait is over! ✨🔑 This incredible property simply awaits your personal touches to transform it into the home of your dreams! 🏡💖
+
+Do not miss out on this amazing opportunity! Act fast and DM us or call now to schedule a private tour. 📲🔜 Your dream home awaits! 🏰💫
+
+#DreamHome #RealEstateGoals #LuxuryLiving #HomeSweetHome
+image's path for this post:imgs_for_test/imgs_for_test1702225564.9263015.jpeg
+image's url for this post:https://oaidalleapiprodscus.blob.core.windows.net/private/org-pgyBwcrwLrPGPe2MqJsJEa4Y/user-Wd0rtpWf1seldtUvzFnTzElX/img-ZZtwvGJ9GLD0zj72yNnZgtgu.png?st=2023-12-10T15%3A26%3A14Z&se=2023-12-10T17%3A26%3A14Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-09T23%3A17%3A11Z&ske=2023-12-10T23%3A17%3A11Z&sks=b&skv=2021-08-06&sig=7wU1fafg5YGUv%2B/ELEgf2Fi9DG2Jbcq55ZowwBBYluA%3D
+
+
+
+POST NUMBER 2
+
+price=4193000
+area=8250
+bedrooms=3
+bathrooms=1
+stories=1
+mainroad=yes
+guestroom=no
+basement=yes
+hotwaterheating=no
+airconditioning=no
+parking=3
+prefarea=no
+furnishingstatus=semi-furnished
+Text for this post:
+🌟 Dream Home Alert! 🏠✨
+
+Introducing the epitome of luxurious living! This stunning real estate gem boasts everything you've ever dreamt of! 💫✨
+
+💲Price: $4,193,000
+📐Area: 8,250 sqft
+🛏️Bedrooms: 3
+🛁Bathrooms: 1
+🏢Stories: 1
+
+This remarkable abode is a true masterpiece, nestled in a prime location with convenient access to the main road. 🚗💨
+
+Prepare to be captivated as you step inside this thoughtfully designed home. With an open floor plan, every inch of the 8,250 sqft is utilized to perfection! ✨
+
+Featuring a cozy basement, ideal for creating your own personal retreat, and not just one, but THREE convenient parking spaces - a luxury that's hard to come by! 🚗🚗🚗
+
+Though hotwaterheating and airconditioning are not present, this home presents an opportunity to customize and personalize your own ideal climate. 🌬️❄️☀️
+
+With its stunning architecture and sizable bedrooms, this dreamy oasis provides the perfect canvas to transform each space into your personal haven. 😍✨
+
+Do you desire an additional guest room? Fear not! This home offers ample space to create the perfect oasis for your cherished guests. 🛌🌟
+
+Though not fully furnished, this semi-furnished beauty allows for endless possibilities to add your personal touch and showcase your impeccable taste. 🌿🛋️
+
+Located in a prestigious neighborhood, this property is a true reflection of elegance and sophistication. 🏡✨
+
+Don't miss the chance to make this exquisite property your own slice of paradise! 💫✨
+
+📍Preferred Area: No
+
+(DM for more details or to schedule a private tour)
+
+#DreamHome #RealEstateGoals #LuxuryLiving #HomeSweetHome
+image's path for this post:imgs_for_test/imgs_for_test1702225594.403342.jpeg
+image's url for this post:https://oaidalleapiprodscus.blob.core.windows.net/private/org-pgyBwcrwLrPGPe2MqJsJEa4Y/user-Wd0rtpWf1seldtUvzFnTzElX/img-E6UDMfTdCQl6z8OoPMRo722E.png?st=2023-12-10T15%3A26%3A45Z&se=2023-12-10T17%3A26%3A45Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-09T23%3A11%3A26Z&ske=2023-12-10T23%3A11%3A26Z&sks=b&skv=2021-08-06&sig=IMEfbLtpZQ/tQ%2BMqGesVvvDdstG%2BBaQdwAdIZ2BPBkw%3D
+
+
+
+POST NUMBER 3
+
+price=8680000
+area=7155
+bedrooms=3
+bathrooms=2
+stories=1
+mainroad=yes
+guestroom=yes
+basement=yes
+hotwaterheating=no
+airconditioning=yes
+parking=2
+prefarea=no
+furnishingstatus=unfurnished
+Text for this post:
+🏠 Welcome to your dream home! ✨ This spacious one-story gem is the epitome of luxury living. Let's dive into the incredible features that make it simply irresistible! 💫
+
+✅ Imagine waking up in one of the three cozy bedrooms, where comfort and tranquility are guaranteed. With two elegant bathrooms, you'll never have to wait in line for your morning routine.
+
+✅ Hosting friends and family will be a breeze in the spacious guest room, ensuring their stay is as enjoyable as yours. And don't forget about the basement, a perfect space to transform into your ideal recreational area!
+
+✅ No need to worry about those chilly winter days; this house boasts hot water heating throughout, keeping you cozy indoors. Plus, the heavenly air conditioning system ensures you'll stay cool during those scorching summer months.
+
+✅ Worried about parking? You won't be! This stunning property comes with ample parking space for not just one, but two vehicles. Accessibility and convenience at its finest!
+
+✅ Located on the main road, you'll have easy access to all the best attractions this area has to offer. Enjoy the perks of prime location without compromising your peace and quiet.
+
+✅ Fully furnished or not, this house offers endless possibilities to transform it into your dream home. Let your imagination run wild as you envision all the beautiful memories you'll create in this space.
+
+💰 Priced at just $8,680,000, this extraordinary property won't stay on the market for long! Act now, and make this heavenly home yours before it's too late. 💥
+
+🌟 Don't miss out on this unparalleled real estate opportunity! Book your viewing today and embark on a new chapter in your life in this remarkable home. 🏡✨ #DreamHome #LuxuryLiving #RealEstateWonders
+image's path for this post:imgs_for_test/imgs_for_test1702225626.166278.jpeg
+image's url for this post:https://oaidalleapiprodscus.blob.core.windows.net/private/org-pgyBwcrwLrPGPe2MqJsJEa4Y/user-Wd0rtpWf1seldtUvzFnTzElX/img-Ujha1ToKI8ZdhN9bYEETH63i.png?st=2023-12-10T15%3A27%3A17Z&se=2023-12-10T17%3A27%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-09T23%3A11%3A43Z&ske=2023-12-10T23%3A11%3A43Z&sks=b&skv=2021-08-06&sig=wxs5bV45nSxZXvno2IoeQrVrVf9FnAtd9M3buqlAllM%3D
+
+
+
+POST NUMBER 4
+
+price=2940000
+area=5850
+bedrooms=3
+bathrooms=1
+stories=2
+mainroad=yes
+guestroom=no
+basement=yes
+hotwaterheating=no
+airconditioning=no
+parking=1
+prefarea=no
+furnishingstatus=unfurnished
+Text for this post:
+🔑 Welcome home! Check out this incredible real estate gem that just hit the market! 💎✨
+
+🏡 Nestled in a sought-after location, this stunning property is perfect for those seeking a mix of luxury and comfort. 🌳🏘️
+
+💰 With a price tag of just $2,940,000, this newly listed dream home offers exceptional value for money. 💸💯
+
+📐 Boasting a generous area of 5,850 sqft, this spacious residence provides ample room for you and your loved ones to grow and thrive. 🌟✨
+
+💤 Equipped with 3 cozy bedrooms, you'll have plenty of space to relax and unwind after a long day. The bright and airy ambiance will surely tempt you to curl up and indulge in a peaceful slumber. 😴💤
+
+🛀 The property features a modern bathroom, ensuring comfort and convenience are never compromised. Prepare to be pampered in style! 💦🚿
+
+🌆 With 2 stories, this home offers a perfect blend of elegance and functionality. Get ready to make memories in your own stylish retreat. 🎉🏰
+
+🚗 Don't worry about parking as this gem comes with one dedicated space, ensuring your vehicle is always secure and accessible. 🅿️🚗
+
+🏨 While a guest room is not included, the spacious living areas and luxurious touches throughout the home are sure to impress anyone who walks through the door. Your friends won't want to leave! 👥❤️
+
+🏠 The property also features a basement, providing extra space for storage or transforming it into your dream entertainment zone! The choices are endless! 🔄🔝
+
+☀️ Despite the absence of hot water heating and air conditioning, the potential to upgrade and personalize this home to your liking is absolutely limitless! 🌡️💨
+
+🌇 While not situated in a preferred area, this property compensates with its exceptional value, size, and undeniable potential. 💼💰
+
+🔑 Don't miss out on this incredible opportunity to transform this blank canvas into your dream retreat! 🎨🏝️
+
+💼 Book your viewing now and get ready to create lifelong memories in this charming unfurnished haven. The journey to your dream home starts here! 🗝️🏠
+
+#RealEstateGoals #DreamHome #LuxuryLiving #HomeSweetHome #PropertyForSale
+image's path for this post:imgs_for_test/imgs_for_test1702225660.5384977.jpeg
+image's url for this post:https://oaidalleapiprodscus.blob.core.windows.net/private/org-pgyBwcrwLrPGPe2MqJsJEa4Y/user-Wd0rtpWf1seldtUvzFnTzElX/img-PUI1TSD5QAPD2evzGEuZVmIq.png?st=2023-12-10T15%3A27%3A51Z&se=2023-12-10T17%3A27%3A51Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-09T23%3A19%3A11Z&ske=2023-12-10T23%3A19%3A11Z&sks=b&skv=2021-08-06&sig=wjMpkQuTOHBYoTs/tqYislPu0i0zxPM5E6kHf//ei1A%3D
+
+
+
+POST NUMBER 5
+
+price=5600000
+area=5136
+bedrooms=3
+bathrooms=1
+stories=2
+mainroad=yes
+guestroom=yes
+basement=yes
+hotwaterheating=no
+airconditioning=yes
+parking=0
+prefarea=yes
+furnishingstatus=unfurnished
+Text for this post:
+🏠 Ready to turn your dreams into reality? Look no further! We've got a stunning real estate gem that will leave you in awe. 😍✨
+
+Introducing a breathtaking property with countless possibilities! This 2-story beauty boasts a spacious area of 5136 sq.ft., providing ample room for your dreams to unfold. Home is where the heart is, and this enchanting residence offers 3 cozy bedrooms that will make you feel right at home. 🛏️🔑
+
+With 1 luxurious bathroom and a guestroom, this house is perfect for entertaining friends and family, ensuring endless memorable gatherings. 🎉🥂 The convenience of a basement adds even more potential to this already fantastic space. 🏡🔥
+
+Situated on the main road, you'll enjoy easy access to all the amenities the area has to offer, making life a breeze. 🚗🛍️ And guess what? Air conditioning has been installed, bringing ultimate comfort for those hot summer days. ☀️❄️
+
+While there may not be parking available on-site, don't worry, because location is everything! A preferred area surrounds this property, offering plenty of parking solutions nearby. 🅿️💯
+
+And the best part? You have the chance to unleash your style and creativity, as this house arrives unfurnished – the perfect blank canvas for you to design and transform into your dream haven. 🎨💫
+
+Don't miss the opportunity to make this marvelous property your very own! 💼💰 Priced at an exceptional $5,600,000, it's a worthwhile investment that will undoubtedly escalate in value over time. 💸💼
+
+Dream big, live big! If you're ready to take the leap and embrace the real estate adventure, reach out to us for further details. Make this unbelievable house a place truly called home! 📞✉️ #RealEstateDreams #StunningHome #UnleashYourCreativity
+image's path for this post:imgs_for_test/imgs_for_test1702225691.5603695.jpeg
+image's url for this post:https://oaidalleapiprodscus.blob.core.windows.net/private/org-pgyBwcrwLrPGPe2MqJsJEa4Y/user-Wd0rtpWf1seldtUvzFnTzElX/img-lkq5MStdPTJMQXwAJhhLElM4.png?st=2023-12-10T15%3A28%3A22Z&se=2023-12-10T17%3A28%3A22Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-09T23%3A11%3A33Z&ske=2023-12-10T23%3A11%3A33Z&sks=b&skv=2021-08-06&sig=MliJ5ecCe271270cUP1B5Srs5tKK00Di7DJJZ92du38%3D
+
+
+
+POST NUMBER 6
+
+price=5600000
+area=10500
+bedrooms=2
+bathrooms=1
+stories=1
+mainroad=yes
+guestroom=no
+basement=no
+hotwaterheating=no
+airconditioning=no
+parking=1
+prefarea=no
+furnishingstatus=semi-furnished
+Text for this post:
+🏡 Amazing Real Estate Opportunity! 🏡
+
+Step into this stunning haven nestled in a highly sought-after location! This jaw-dropping property offers you the chance to embrace a luxurious lifestyle at an affordable price point.
+
+💰 Price: $5,600,000
+📏 Area: 10,500 sq. ft.
+🛏️ Bedrooms: 2
+🛀 Bathrooms: 1
+📖 Stories: 1
+🛣️ Main Road Access: Yes
+🛋️ Furnishing: Semi-Furnished
+🚗 Parking: 1 Spot
+
+Immerse yourself in a spacious, airy interior, showcasing tasteful design elements perfect for your dream home. The enchanting bedrooms and stylish bathroom emanate a soothing ambiance, offering true relaxation.
+
+With easy access to the main road and parking convenience, your daily commute will be a breeze. You deserve a comfortable lifestyle, and this property ensures just that.
+
+💡 Add your personal touch to transform this delightful space into your own sanctuary. Whether you're looking to invest, downsize, or create a cozy retreat, this property is a perfect fit.
+
+Don't wait too long! Opportunities like these are rare to come by. Contact us today to schedule a viewing and embark on a new chapter of your life in this sensational abode!
+
+✨ Your dream home awaits you! ✨
+image's path for this post:imgs_for_test/imgs_for_test1702225721.4609191.jpeg
+image's url for this post:https://oaidalleapiprodscus.blob.core.windows.net/private/org-pgyBwcrwLrPGPe2MqJsJEa4Y/user-Wd0rtpWf1seldtUvzFnTzElX/img-Wx3KiwO49rpuWrNxNyFU32tT.png?st=2023-12-10T15%3A28%3A53Z&se=2023-12-10T17%3A28%3A53Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-09T23%3A13%3A59Z&ske=2023-12-10T23%3A13%3A59Z&sks=b&skv=2021-08-06&sig=z5jDAXARUA0Nx8%2B/EPHZwNcJt16pK/olOQrY9zK6Ikg%3D
+
+
+
+POST NUMBER 7
+
+price=3430000
+area=4000
+bedrooms=2
+bathrooms=1
+stories=1
+mainroad=yes
+guestroom=no
+basement=no
+hotwaterheating=no
+airconditioning=no
+parking=0
+prefarea=no
+furnishingstatus=unfurnished
+Text for this post:
+🏠 Your Dream Home Awaits! 🌟
+
+📍 Location: Prime Real Estate Area
+💰 Price: $3,430,000
+📏 Area: 4000 sqft
+🛏️ Bedrooms: 2
+🛁 Bathrooms: 1
+🏢 Stories: 1
+🛣️ Main Road Access: Yes
+🛋️ Furnishing Status: Unfurnished
+
+This stunning house in a sought-after location is sure to capture your heart! With its incredible features and unbeatable price, it's the perfect opportunity for you to make it your own.
+
+Imagine waking up in the spacious bedrooms flooded with natural light, giving you the serene ambiance you crave. The stunning bathroom offers a luxurious retreat, allowing you to relax and rejuvenate after a long day. 
+
+No need to worry about climbing stairs, as this single-story gem is built with convenience in mind. You'll enjoy seamless access to the main road, making your daily commute a breeze.
+
+While there's no guestroom or basement, the open layout presents endless possibilities for you to personalize this house to meet your needs and style. 
+
+Although there's no hot water heating or air conditioning installed, you have the freedom to tailor the home to your preferences, creating an environment that suits your lifestyle perfectly.
+
+Parking is not an issue with the availability of ample space nearby to accommodate your vehicles. While this home is currently unfurnished, this provides an exciting opportunity for you to transform it into your own vision of comfort and luxury.
+
+Don't miss out on this incredible chance to own your dream home in an unbeatable location! Act fast and let's make your real estate dreams come true. ✨
+
+#DreamHome #RealEstateGoals #LocationLocationLocation #UnfurnishedBeauty
+image's path for this post:imgs_for_test/imgs_for_test1702225755.7720494.jpeg
+image's url for this post:https://oaidalleapiprodscus.blob.core.windows.net/private/org-pgyBwcrwLrPGPe2MqJsJEa4Y/user-Wd0rtpWf1seldtUvzFnTzElX/img-84i2317Q1RyCeTvmeAH28p7B.png?st=2023-12-10T15%3A29%3A26Z&se=2023-12-10T17%3A29%3A26Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-09T21%3A36%3A26Z&ske=2023-12-10T21%3A36%3A26Z&sks=b&skv=2021-08-06&sig=gCqmwewpasA8N/VMon2ioqTLZgViFP3749Y3htan/KE%3D
+
+
+
+POST NUMBER 8
+
+price=4900000
+area=4095
+bedrooms=3
+bathrooms=1
+stories=2
+mainroad=no
+guestroom=yes
+basement=yes
+hotwaterheating=no
+airconditioning=yes
+parking=0
+prefarea=no
+furnishingstatus=semi-furnished
+Text for this post:
+🏡 Dreaming of the perfect home? Look no further! 😍✨
+
+🌟 Presenting an incredible real estate gem that will sweep you off your feet! This magnificent property boasts endless allure and is awaiting its lucky new owner. 🏰💫
+
+📍 Located in a prime area, this splendid home spans an impressive 4095 sq.ft. where you'll find 3 spacious bedrooms, perfect for accommodating your loved ones in comfort and style. 🛏️🛏️🛏️
+
+🚿 Its luxurious bathroom ensures that you can indulge in a relaxing oasis after a long day, complemented by an attractive two-story design that effortlessly adds charm and character. 🛁✨
+
+✨ Every detail has been carefully considered in this tastefully furnished abode, catering to your desires and creating an inviting atmosphere. 🛋️✨
+
+🛏️ It features a cozy guest room, an ideal space for hosting loved ones or transforming it into your dream office. With a stunning basement, you have the freedom to add your personal touch, unleashing endless possibilities. 🏢🎉
+
+🌬️ Enjoy the cool comfort of air conditioning throughout the house, creating the perfect ambiance all year round. 💨❄️
+
+🚗 Although this property doesn't offer parking, fear not! Convenient street parking options will accommodate your vehicle with ease. 🅿️🚙
+
+💰 At an attractive price of just $4,900,000, this is an unmissable opportunity! Snatch it up before someone else does! 💸💥
+
+🌟 Don't let this captivating dream home slip through your fingers - seize the chance to have it all. 💫💖
+
+📱 Contact us today to schedule a viewing and embark on the journey to homeownership. This exceptional property won't last long! 📞🗝️
+
+#DreamHome #HomeSweetHome #RealEstateGoals #LuxuryLiving
+image's path for this post:imgs_for_test/imgs_for_test1702225790.983639.jpeg
+image's url for this post:https://oaidalleapiprodscus.blob.core.windows.net/private/org-pgyBwcrwLrPGPe2MqJsJEa4Y/user-Wd0rtpWf1seldtUvzFnTzElX/img-8G6wdsDrKLoNDHMlagRagSd1.png?st=2023-12-10T15%3A30%3A01Z&se=2023-12-10T17%3A30%3A01Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-09T23%3A20%3A59Z&ske=2023-12-10T23%3A20%3A59Z&sks=b&skv=2021-08-06&sig=8RCLBAwrSu/pMG8IDLvAu0t9WqmHld/8FwuWOAIk7Lo%3D
+
+
+
+POST NUMBER 9
+
+price=4760000
+area=6321
+bedrooms=3
+bathrooms=1
+stories=2
+mainroad=yes
+guestroom=no
+basement=yes
+hotwaterheating=no
+airconditioning=yes
+parking=1
+prefarea=no
+furnishingstatus=furnished
+Text for this post:
+🏡 𝗝𝗢𝗜𝗡 𝗨𝗦 𝗙𝗢𝗥 𝗔𝗡 𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘 🏡
+
+🔑 Searching for your dream home? Look no further! Presenting an exquisite property that epitomizes luxury living. 💫
+
+🌟 Featuring a magnificent 2-story home in a prime location, this gem offers all the amenities you desire and more!
+
+✨ Price: $4,760,000 🏷️
+🔍 Area: 6,321 sqft 📏
+🛌 Bedrooms: 3 🛏️
+🚽 Bathrooms: 1 🚿
+🌆 Stories: 2 🏢
+🛣️ Main Road Access: Yes 🚗
+🛋️ Furnishing Status: Furnished 🪑
+🏠 Basement: Yes 🕳️
+🚿 Hot Water Heating: No❄️
+❄️ Air Conditioning: Yes ❄️
+🅿️ Parking: 1 🚙
+🌸 Preferred Area: No 🏞️
+🛎️ Guest Room: No (More privacy for you!) 🤫
+
+✅ This extraordinary property showcases sleek design, spacious rooms, and top-notch furnishings. It’s ideal for individuals seeking a blend of modern comfort and elegant aesthetics. 🎨
+
+🌿 With convenient basement storage, you'll never feel short on space. 📦
+
+💦 Beat the scorching heat with the refreshing air conditioning system, maintaining a cool ambiance all year round! 🌬️
+
+🚗 Additionally, a parking space is provided for your convenience. No more hassle when returning home! 🏡
+
+📍 Nestled in a desirable location, this property offers easy access to the main road, ensuring flexibility and smooth connectivity for your daily commute. 🚦
+
+🏆 What are you waiting for? Step into this dream world of luxury, comfort, and modernity and make it your own! Contact us now to schedule a private tour and witness the allure of this stunning property!
+
+📱 DM us today to arrange your visit or leave a comment with any questions you may have. Your dream home awaits, and it's calling your name! 🏰💖
+
+#DreamHome #LuxuryLiving #ModernLifestyle #RealEstateGoals #HomeSweetHome
+image's path for this post:imgs_for_test/imgs_for_test1702225827.540325.jpeg
+image's url for this post:https://oaidalleapiprodscus.blob.core.windows.net/private/org-pgyBwcrwLrPGPe2MqJsJEa4Y/user-Wd0rtpWf1seldtUvzFnTzElX/img-OpsWVAAdwB4tLEXngXBQ8Xp8.png?st=2023-12-10T15%3A30%3A39Z&se=2023-12-10T17%3A30%3A39Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-09T23%3A23%3A58Z&ske=2023-12-10T23%3A23%3A58Z&sks=b&skv=2021-08-06&sig=T2iKFpgDXTYJdBInIbS7gGPbs708dU8Ipz6rbKOlPoE%3D
+
+
+
+POST NUMBER 10
+
+price=6615000
+area=10500
+bedrooms=3
+bathrooms=2
+stories=1
+mainroad=yes
+guestroom=no
+basement=yes
+hotwaterheating=no
+airconditioning=yes
+parking=1
+prefarea=yes
+furnishingstatus=furnished
+Text for this post:
+🏡 Welcome to your dream home! 🌟✨
+
+💫 This stunning fully-furnished house located in the heart of the city boasts 3 bedrooms, 2 bathrooms, and a generous area of 10,500 square feet. ✨
+
+✨ With a modern single-story design, this gem offers a comfortable and stylish living space perfect for creating unforgettable memories with your loved ones. ✨
+
+🛏️ Each spacious bedroom provides a tranquil sanctuary to relax and rest, ensuring a peaceful night's sleep. 💤
+
+🚿 The two beautiful bathrooms offer the perfect blend of functionality and elegance. ✨
+
+🌞 You will feel the warmth of natural light throughout the house, thanks to its prime location on the main road, offering the best views and ample sunlight. ☀️
+
+🍽️ While this property doesn't boast a guestroom, its open layout ensures plenty of space to entertain your friends and family. 🎉
+
+🏡 No need to worry about storage space—the basement provides ample room for all your belongings, neatly organized and out of sight. 📦
+
+❄️ And for those balmy summer days, you'll be pleased to know that this house is equipped with air conditioning, keeping you cool and comfortable at all times. ❄️
+
+🚗 Off-street parking won't be a problem, as this property includes a convenient parking spot for your convenience. 🅿️
+
+🌸 This property is located in a preferred area, offering a desirable neighborhood with all the amenities you need just a stone's throw away. Convenience and tranquility, all in one! 🌳🏢
+
+💰 Priced at an attractive rate of $6,615,000, this dream abode won't last long in today's real estate market. ✨💫
+
+📞 Contact us now to schedule a visit and make this luxurious home yours! 💼🔑
+
+#RealEstateGems #DreamHomeForSale #LuxuryLiving
+image's path for this post:imgs_for_test/imgs_for_test1702225862.0379348.jpeg
+image's url for this post:https://oaidalleapiprodscus.blob.core.windows.net/private/org-pgyBwcrwLrPGPe2MqJsJEa4Y/user-Wd0rtpWf1seldtUvzFnTzElX/img-LYzWrLMONU3l2FIQTGTQJfny.png?st=2023-12-10T15%3A31%3A11Z&se=2023-12-10T17%3A31%3A11Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-09T23%3A52%3A20Z&ske=2023-12-10T23%3A52%3A20Z&sks=b&skv=2021-08-06&sig=ps/zT0K0Y9lyczPL3zzQeu22lBK7t6ZE3S5/91pCEME%3D
+
+
+
+POST NUMBER 11
+
+price=3500000
+area=3640
+bedrooms=2
+bathrooms=1
+stories=1
+mainroad=yes
+guestroom=no
+basement=no
+hotwaterheating=no
+airconditioning=no
+parking=1
+prefarea=no
+furnishingstatus=semi-furnished
+Text for this post:
+🏡🌟 Uncover the Hidden Gem! 🌟🏡
+
+Dreaming of a cozy and charming abode to call your own? Look no further! 😍 This incredible real estate gem is sure to knock your socks off! Let's dive into the highlights of this stunning property 🏠💎:
+
+📍 Location: Nestled in a prime neighborhood, this captivating home is situated in a serene and sought-after area, offering tranquility and convenience at its finest!
+
+📏 Area: Boasting a generous 3,640 sqft, this spacious haven provides ample room for you to create your perfect sanctuary, filled with endless possibilities.
+
+🛌 Bedrooms: Two thoughtfully designed bedrooms await, providing you with cozy spaces to unwind and recharge after a long day. Your personal oasis awaits you!
+
+🛀 Bathrooms: With a lavish and luxurious bathroom, complete with modern fixtures and all the amenities you need, every day will start and end on an incredibly refreshing note!
+
+🌇 Single-Story Convenience: Embrace the ease of single-story living, promoting comfort and accessibility for all residents. No stairs to climb here!
+
+🚗 Parking: This marvelous property provides a hassle-free parking space, ensuring your vehicles are safe and secure.
+
+💰 Price: Priced at a competitive $3,500,000, this rare find offers exceptional value for money, making it an excellent investment opportunity for the astute buyer.
+
+✨ Additional Perks: While furnishing is semi-furnished, you have a blank canvas to transform this space into the home of your dreams. Who doesn't love a personal touch? 💫
+
+🏞️ Preferred Area: Although this particular property doesn't boast a preferred area, it provides you with a blank canvas to create your own preferred haven. The possibilities are endless!
+
+💫 Don't miss out on this captivating opportunity! ✨ Grab your chance to make this house your home sweet home today! 💕
+
+📲 Contact us now for more details and to arrange a viewing! 📞🤝 Let our team help you take the first step towards the enchanting life you deserve! 🏡❤️
+
+#RealEstateGems #DreamHome #InvestInYourFuture #SpaciousLiving #LuxuriousLiving #HouseHunting #HomeSweetHome
+image's path for this post:imgs_for_test/imgs_for_test1702225893.490336.jpeg
+image's url for this post:https://oaidalleapiprodscus.blob.core.windows.net/private/org-pgyBwcrwLrPGPe2MqJsJEa4Y/user-Wd0rtpWf1seldtUvzFnTzElX/img-JfIJ79wlNcp5tq2WD9wpupZR.png?st=2023-12-10T15%3A31%3A46Z&se=2023-12-10T17%3A31%3A46Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-09T23%3A17%3A52Z&ske=2023-12-10T23%3A17%3A52Z&sks=b&skv=2021-08-06&sig=5q73dUgx7ftDBGQDis14uEwGuX2H2E1KvZHMZ1yMEeY%3D
+
+
+
+POST NUMBER 12
+
+price=2961000
+area=3000
+bedrooms=2
+bathrooms=1
+stories=2
+mainroad=yes
+guestroom=no
+basement=no
+hotwaterheating=no
+airconditioning=no
+parking=0
+prefarea=no
+furnishingstatus=semi-furnished
+Text for this post:
+🏡 NEW LISTING ALERT! 🏡
+
+Dreaming of a cozy, stylish, and affordable home? Look no further! This stunning real estate gem has just hit the market, and it's ready to steal your heart! 💖
+
+🌟 Features 🌟
+✨ Price: $2,961,000
+✨ Area: 3000 sqft
+✨ Bedrooms: 2 
+✨ Bathrooms: 1 
+✨ Stories: 2 
+
+🚗 Conveniently located near the main road, this picture-perfect house offers easy access to all your daily needs! Say goodbye to long commutes and hello to a stress-free lifestyle. 🌇
+
+✨ Highlights ✨
+✨ Newly renovated with a touch of elegance, this semi-furnished home combines modern convenience with timeless charm, creating the perfect ambiance for relaxation and entertainment. ✨
+
+💤 Need extra space? No problem! With two spacious bedrooms, you'll have plenty of room to unwind and recharge after a long day. Quality sleep is just a dream away! 😴
+
+🚿 A luxurious bathroom awaits, offering a rejuvenating sanctuary where you can indulge in some serious self-care. Pamper yourself with soothing hot showers at any time, thanks to the hot water heating system. ✨
+
+🍽️ The perfect spot for hosting intimate gatherings! Whip up your favorite meals in the well-designed kitchen, and impress your guests with culinary delights. However, please note that a guestroom is not available, ensuring your privacy is always respected. 🍷
+
+🌳 Surrounded by tranquility and greenery, this cozy abode provides you with the perfect escape from the hustle and bustle of city life. Embrace the serenity, breathe in the fresh air, and let your worries melt away. 🌿
+
+🅿️ While parking space may not be available, worry not! The convenience of public transportation and nearby facilities will make owning a vehicle a luxury, not a necessity. Plus, think of all the money you'll save on gas! 🚍
+
+⭐ Don't wait! This amazing opportunity won't last long. Contact us now to schedule a visit and turn this house into your dream home sweet home. 🏡💫
+
+✨🔑 Your future starts here! 🔑✨
+
+#RealEstateGem #DreamHome #CozyLiving
+image's path for this post:imgs_for_test/imgs_for_test1702225933.844336.jpeg
+image's url for this post:https://oaidalleapiprodscus.blob.core.windows.net/private/org-pgyBwcrwLrPGPe2MqJsJEa4Y/user-Wd0rtpWf1seldtUvzFnTzElX/img-jMY47exHH0WXnVOMBqzb3ys4.png?st=2023-12-10T15%3A32%3A24Z&se=2023-12-10T17%3A32%3A24Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-09T23%3A09%3A35Z&ske=2023-12-10T23%3A09%3A35Z&sks=b&skv=2021-08-06&sig=Mr11a8sM5eUJbns1/l4ZIo/yJfVGtH9/b/NgEnwEwT0%3D
+
+
+
+POST NUMBER 13
+
+price=13300000
+area=7420
+bedrooms=4
+bathrooms=2
+stories=3
+mainroad=yes
+guestroom=no
+basement=no
+hotwaterheating=no
+airconditioning=yes
+parking=2
+prefarea=yes
+furnishingstatus=furnished
+Text for this post:
+🏠 Come experience the ultimate in luxury living! 💎 
+
+This stunning 4-bedroom, 2-bathroom home is a dream come true for anyone seeking style, elegance, and comfort. With a lavish area of 7420 sqft, this property offers plenty of room for you and your loved ones to spread out and enjoy.
+
+✨ Nestled in a highly sought-after neighborhood, this house is a true gem. Boasting a majestic presence, it catches your eye from the moment you lay your gaze on it. The open-concept design creates a seamless flow throughout, allowing for effortless entertaining or simply unwinding in your own personal haven.
+
+✅ Not only does this abode have all the essential features you desire, but it goes above and beyond with additional perks. Imagine having the convenience of air conditioning during scorching summers and cozy parking space for two cars. These make life that much more enjoyable.
+
+💰 Priced at an incredible $13,300,000, this property offers an outstanding value for such a remarkable home. And that's not all—this beauty comes fully furnished, so you can instantly settle into a charming and welcoming atmosphere.
+
+🌟 Discover a house that could be your very own fairytale. Don't miss the opportunity to call this immaculate property your home-sweet-home. Act fast, as this mesmerizing property is located in a preferred area and is certain to be in high demand.
+
+📞 Interested in making this architectural masterpiece yours? Contact us today to schedule a personal tour and witness the true beauty that awaits you. Your dream house is just a call away! 🏡✨
+
+#RealEstateLuxury #DreamHome #LuxuryLiving #HomeSweetHome #ModernLiving
+image's path for this post:imgs_for_test/imgs_for_test1702225963.3381083.jpeg
+image's url for this post:https://oaidalleapiprodscus.blob.core.windows.net/private/org-pgyBwcrwLrPGPe2MqJsJEa4Y/user-Wd0rtpWf1seldtUvzFnTzElX/img-uVxZK3HjNzZNwzLpcMA8geLS.png?st=2023-12-10T15%3A32%3A54Z&se=2023-12-10T17%3A32%3A54Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-09T23%3A14%3A17Z&ske=2023-12-10T23%3A14%3A17Z&sks=b&skv=2021-08-06&sig=MEm0alYKIIpYFlVUqA%2B9dIOpgNcawl4FMK5PtYeCkRo%3D
+
+
+
+POST NUMBER 14
+
+price=4550000
+area=5320
+bedrooms=3
+bathrooms=1
+stories=2
+mainroad=yes
+guestroom=yes
+basement=yes
+hotwaterheating=no
+airconditioning=no
+parking=0
+prefarea=yes
+furnishingstatus=semi-furnished
+Text for this post:
+💎 Introducing an exquisite piece of real estate! ✨ This stunning house boasts a breathtaking area of 5320 sqft, with 3 spacious bedrooms and 1 luxurious bathroom across 2 captivating stories. 💫
+
+✨ Situated in a prime location, this immaculate property enjoys the advantage of being adjacent to the main road 🛣️ and features an inviting guest room 🏡, perfect for hosting your loved ones in style. Additionally, it offers the convenience of a basement to accommodate all your storage needs. 📦
+
+🌟 While hot water heating and air conditioning are not included, the sheer elegance and charm of this residence will leave you awe-struck. 💫
+
+🚗 Please note, parking availability is currently limited, which makes this property a true gem for those seeking exclusivity. 🌟
+
+💖 This semi-furnished dream home, situated in a preferred area, is now available for just $4,550,000. 🏷️ Don't miss out on this extraordinary opportunity to own a slice of perfection. ✨
+
+Contact us today for more information and a chance to seize the keys to your dream lifestyle! 🏠💫 #RealEstateGoals #LuxuryLiving
+image's path for this post:imgs_for_test/imgs_for_test1702225991.2872949.jpeg
+image's url for this post:https://oaidalleapiprodscus.blob.core.windows.net/private/org-pgyBwcrwLrPGPe2MqJsJEa4Y/user-Wd0rtpWf1seldtUvzFnTzElX/img-z7hp7kKWdisVBLW1f22Gt0Cw.png?st=2023-12-10T15%3A33%3A21Z&se=2023-12-10T17%3A33%3A21Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-09T23%3A15%3A16Z&ske=2023-12-10T23%3A15%3A16Z&sks=b&skv=2021-08-06&sig=tg9dUFIs6%2B9zkVrYQRgIypwldUbTj6DWD7aMlXcyIk8%3D
+
+
+
+POST NUMBER 15
+
+price=3500000
+area=7350
+bedrooms=2
+bathrooms=1
+stories=1
+mainroad=yes
+guestroom=no
+basement=no
+hotwaterheating=no
+airconditioning=no
+parking=1
+prefarea=no
+furnishingstatus=semi-furnished
+Text for this post:
+🏡🌟 Your Dream Home Has Finally Arrived! 🌟🏡
+
+👉 Introducing our captivating real estate listing, located in a prime area!
+
+🌟 Price: $3.5M 
+🌟 Area: 7,350 sq.ft. 
+🌟 Bedrooms: 2 
+🌟 Bathrooms: 1 
+🌟 Stories: 1 
+🌟 Main Road Access: Yes 
+🌟 Guest Room: No 
+🌟 Basement: No 
+🌟 Hot Water Heating: No 
+🌟 Air Conditioning: No 
+🌟 Parking: 1 
+🌟 Preferred Area: No 
+🌟 Furnishing Status: Semi-Furnished 
+
+This stunning abode is perfect for those seeking a peaceful sanctuary in the heart of town. Nestled in a highly sought-after location, this one-story gem offers you everything you deserve.
+
+✨ Highlights of this breathtaking home: 
+✅ Spacious living area with ample natural light 
+✅ Modern kitchen with state-of-the-art appliances 
+✅ Charming bedrooms ensuring utmost comfort 
+✅ Elegant bathroom with exquisite finishes 
+✅ Well-maintained with love and care 
+✅ Direct access to the main road for easy commuting
+
+🚗 Your vehicle will have its own spot with convenient parking available. 
+
+🌳 Find solace in your private backyard, surrounded by lush greenery, providing you with a tranquil haven to unwind.
+
+📍 This esteemed property ticks all the boxes for a serene, yet convenient lifestyle. 
+
+✅ Don't miss this golden opportunity! Book your exclusive showing today!
+
+For more details or to schedule a viewing, contact us now! 📞📲
+
+#RealEstateGoals #DreamHome #LuxuryLiving #ModernLiving
+image's path for this post:imgs_for_test/imgs_for_test1702226020.8116055.jpeg
+image's url for this post:https://oaidalleapiprodscus.blob.core.windows.net/private/org-pgyBwcrwLrPGPe2MqJsJEa4Y/user-Wd0rtpWf1seldtUvzFnTzElX/img-4pNu8ppl9JSe0tdrAvGeMlon.png?st=2023-12-10T15%3A33%3A49Z&se=2023-12-10T17%3A33%3A49Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-10T08%3A08%3A34Z&ske=2023-12-11T08%3A08%3A34Z&sks=b&skv=2021-08-06&sig=70n9NM0EPuXjWP8jj4ZTeFAAcZsLW9KzZaCZFB4qvGM%3D
+
+
+
+POST NUMBER 16
+
+price=3500000
+area=3600
+bedrooms=6
+bathrooms=1
+stories=2
+mainroad=yes
+guestroom=no
+basement=no
+hotwaterheating=no
+airconditioning=no
+parking=1
+prefarea=no
+furnishingstatus=unfurnished
+Text for this post:
+🏡 Calling all real estate enthusiasts! Look no further - we've got a magnificent property that's sure to dazzle you! 🌟
+
+🌸 Nestled in a serene neighborhood, this stunning house is truly a sight to behold. With a spacious area of 3600 square feet, there's no shortage of room to live and thrive. Discover six cozy bedrooms, perfect for creating your dream oasis, and a conveniently shared bathroom for added convenience. 
+
+🌳 This two-story haven boasts an impressive main road location, ensuring easy accessibility. While there may be no guest room or basement, this house truly shines with its undeniable potential for customization and personalization. Imagine turning each room into your perfect sanctuary!
+
+🚿 Although there is no hot water heating, don't let that deter you - possibilities are endless. Picture a beautifully renovated bathroom, complete with luxurious amenities. While air conditioning may not be pre-installed, we invite you to create the perfect climate within these walls.
+
+🚗 Parking your car will never be an issue, thanks to the one included parking space. Whether it's a cherished collection or simply a vehicle, your wheels will always have a safe place to call home. Although the preferred area may not be indicated, we guarantee that the surrounding community offers plenty of charm and convenience.
+
+🏡 This house comes unfurnished, leaving you with a blank canvas to unleash your creativity. Embrace the freedom to design and craft your dream home exactly to your taste.
+
+🌈 Excited? We know we are! Step into the enticing world of real estate and discover the beauty of this one-of-a-kind property. With a price tag of $3,500,000, this gem won't stay on the market for long. Don't miss out on your chance to create memories and a life full of joy within these walls. Contact us today and make this dream house yours! 💫✨
+
+#RealEstateDreams #HomeSweetHome #PropertyForSale #UnfurnishedMarvel #DesignYourParadise
+image's path for this post:imgs_for_test/imgs_for_test1702226051.2893841.jpeg
+image's url for this post:https://oaidalleapiprodscus.blob.core.windows.net/private/org-pgyBwcrwLrPGPe2MqJsJEa4Y/user-Wd0rtpWf1seldtUvzFnTzElX/img-bhO8B4tmFbi3nwlzZRS8fKVL.png?st=2023-12-10T15%3A34%3A20Z&se=2023-12-10T17%3A34%3A20Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-09T23%3A15%3A50Z&ske=2023-12-10T23%3A15%3A50Z&sks=b&skv=2021-08-06&sig=MN5f5ox2v9RlTM6NBZ05/hcbSawpEwXWb3nyiacGJDQ%3D
+
+
+
+POST NUMBER 17
+
+price=3150000
+area=3500
+bedrooms=2
+bathrooms=1
+stories=1
+mainroad=no
+guestroom=no
+basement=yes
+hotwaterheating=no
+airconditioning=no
+parking=0
+prefarea=no
+furnishingstatus=semi-furnished
+Text for this post:
+🏡 Welcome Home! 🌟
+
+Looking for an extraordinary real estate opportunity that perfectly blends comfort and style? Look no further! 🙌✨
+
+🔑 Presenting a stunning home that's sure to captivate your heart! This elegant abode boasts a spacious area of 3,500 sq.ft, providing ample space for all your dreams and desires. 😍
+
+💰 Priced at just $3,150,000, this gem offers incredible value for your investment. 💎💸
+
+✨ Boasting 2 cozy bedrooms, this house opens its doors to a world of endless possibilities. With its thoughtfully designed layout, each room perfectly harmonizes comfort and tranquility. 😌💤
+
+🛁 Indulge in a modern, fully equipped bathroom that reflects a luxurious lifestyle. Immerse yourself in relaxation and unwind after a long day. 🚿✨
+
+🏡 Spanning across a single story, this home truly celebrates the beauty of simplicity. It's the perfect space for creating unforgettable memories with your loved ones. 🥰
+
+👣 Nestled in a serene neighborhood, this peaceful retreat offers respite from the bustling main roads, ensuring a calm and peaceful ambiance that is truly priceless. 🌳❤️
+
+🎉 Don't let the lack of a guest room hold you back! This home dazzles with its abundant space, providing you with countless possibilities to fashion your dream guest retreat. ✨
+
+🏡 With a basement that offers additional storage and potential for your personal touch, your creativity will know no bounds. Make it your home office, gym, or that special hideaway you've always dreamed of. 🏋️‍♂️✨
+
+❄️ Embrace the charm of this semi-furnished haven, perfect for those who wish to add their personal touch and style to every corner. This canvas is ready for your creativity to flourish. 🎨✨
+
+🅿️ Although the parking space is currently at zero, this gives you the opportunity to customize the area as per your needs and desires. Design your dream parking oasis that suits your lifestyle! 🚗💨
+
+🌟 This marvelous abode is waiting to serve as your new sanctuary. With no prefarea status, you have the freedom to relish the tranquility of this beautiful neighborhood at an unbeatable price. ✨
+
+📸 Join us on a virtual tour and discover the magic of this breathtaking home. Don't miss your chance to claim this incredible opportunity for yourself! 🌈✨
+
+✨ Contact us now for more details and let's turn your dreams into reality today! ✨💫
+
+🔔 #HomeSweetHome #RealEstateDreams #LuxuryLiving
+image's path for this post:imgs_for_test/imgs_for_test1702226083.0742824.jpeg
+image's url for this post:https://oaidalleapiprodscus.blob.core.windows.net/private/org-pgyBwcrwLrPGPe2MqJsJEa4Y/user-Wd0rtpWf1seldtUvzFnTzElX/img-Fhe4IfpJBt03iRffZVMyoWih.png?st=2023-12-10T15%3A34%3A53Z&se=2023-12-10T17%3A34%3A53Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-09T23%3A26%3A06Z&ske=2023-12-10T23%3A26%3A06Z&sks=b&skv=2021-08-06&sig=5lDbVDFk7Lq4OvrLIqTbNgbPNVg8H3obIUDeYmAhsZA%3D
+
+
+
+POST NUMBER 18
+
+price=4270000
+area=4360
+bedrooms=4
+bathrooms=1
+stories=2
+mainroad=yes
+guestroom=no
+basement=no
+hotwaterheating=no
+airconditioning=no
+parking=0
+prefarea=no
+furnishingstatus=furnished
+Text for this post:
+🏡 Spoil Yourself with Lavish Living! 🌟
+
+Welcome to our exquisite haven of luxury and comfort! 😍 This stunning 2-story, 4-bedroom residence is a dream come true for any real estate connoisseur! 💫 Ideal for those seeking a touch of elegance, this fully furnished home is truly a sight to behold. ✨
+
+💰 Price: $4,270,000
+📐 Area: 4,360 sq. ft.
+🛌 Bedrooms: 4
+🛀 Bathrooms: 1
+🌇 Stories: 2 
+🚦 Main road access: Yes
+🏨 Guest room: Sorry, not available! 😢
+🏗️ Basement: Unfortunately, no.
+🚿 Hot water heating: Not included.
+❄️ Air conditioning: Regrettably, not provided.
+🅿️ Parking: Zero, but don't worry, we'll find a solution!
+📍 Preferred area: Not currently available.
+🛋️ Furnishing status: Fully furnished with tasteful decor!
+
+Immerse yourself in the epitome of sophisticated living, where every nook and cranny has been carefully curated to harmonize beauty and functionality. 🏰✨ From the grand entrance to the meticulously-designed interiors, this home is a masterpiece that will leave you in awe. 
+
+With a prime location on the main road, accessibility is a breeze, providing you with the perfect balance of convenience and privacy. 🚗💨
+
+While a guest room and basement may not be included, fear not! We have other exceptional amenities up our sleeves that will surely meet your desires. 😉
+
+Ready to make this luxurious house your new home? Don't hesitate to DM us for more details or to schedule a personal tour. 📩🔑 Your dream living space awaits! 💖 #LuxuryLiving #DreamHome #RealEstateGoals
+image's path for this post:imgs_for_test/imgs_for_test1702226114.8442264.jpeg
+image's url for this post:https://oaidalleapiprodscus.blob.core.windows.net/private/org-pgyBwcrwLrPGPe2MqJsJEa4Y/user-Wd0rtpWf1seldtUvzFnTzElX/img-6puyfVevaVZIJnzK6ebg4fko.png?st=2023-12-10T15%3A35%3A24Z&se=2023-12-10T17%3A35%3A24Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-09T23%3A19%3A30Z&ske=2023-12-10T23%3A19%3A30Z&sks=b&skv=2021-08-06&sig=5N2dQKejJSyEsXhGP09QIz1w32ioD/zX8jpyyNEmuHc%3D
+
+
+
+POST NUMBER 19
+
+price=4235000
+area=6650
+bedrooms=3
+bathrooms=1
+stories=2
+mainroad=yes
+guestroom=yes
+basement=no
+hotwaterheating=no
+airconditioning=no
+parking=0
+prefarea=no
+furnishingstatus=semi-furnished
+Text for this post:
+🏠 Welcome to your dream home! 😍✨ 
+
+🔑 This stunning property has everything you need and more. Just picture yourself in this spacious 6650 sqft haven, located in a prime location with easy access to the main road. 
+
+🛌🛀 This gorgeous house boasts 3 stylish bedrooms and a well-maintained bathroom, perfect for you and your loved ones. The two-story design adds a touch of elegance, allowing plenty of room for everyone to have their own space.
+
+🏡 The inviting guest room is ideal for hosting family and friends, ensuring they feel right at home. Although there's no basement, rest assured you'll have plenty of storage space to keep everything organized and clutter-free.
+
+💦 While there's no hot water heating or air conditioning, worry not – the wonderful architectural design and natural airflow create a comfortable atmosphere all year round. Plus, imagine the savings on your energy bills! 💰💨
+
+🚙 Although there's no designated parking area, you'll find ample parking options nearby, making it convenient for both you and your guests.
+
+🌿 This semi-furnished home allows you the freedom to add your personal touch and make it truly yours. Let your creativity run wild!
+
+📍 With its charming location and affordable price of $4,235,000, this property could be yours to call "home sweet home." 🏡💕
+
+💫 Don't wait too long – your dream home awaits you! Get in touch for more details and to schedule a viewing. 📲✨
+
+#DreamHome #RealEstateGoals #LuxuryLiving #HomeSweetHome
+image's path for this post:imgs_for_test/imgs_for_test1702226145.7471921.jpeg
+image's url for this post:https://oaidalleapiprodscus.blob.core.windows.net/private/org-pgyBwcrwLrPGPe2MqJsJEa4Y/user-Wd0rtpWf1seldtUvzFnTzElX/img-N48AXBv05EAxU75TwRoX5SH7.png?st=2023-12-10T15%3A35%3A56Z&se=2023-12-10T17%3A35%3A56Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-09T23%3A10%3A37Z&ske=2023-12-10T23%3A10%3A37Z&sks=b&skv=2021-08-06&sig=3BkhURfJ9b6UaPvbEI/4BaaIBuuPAiTdbPEh6qDD13E%3D
+
+
+
+POST NUMBER 20
+
+price=4270000
+area=4500
+bedrooms=2
+bathrooms=1
+stories=1
+mainroad=yes
+guestroom=no
+basement=no
+hotwaterheating=no
+airconditioning=yes
+parking=2
+prefarea=no
+furnishingstatus=furnished
+Text for this post:
+🏡 Looking for the perfect place to call home? This stunning property is sure to make your heart skip a beat! 💖✨
+
+🌟 Just listed! Introducing a dreamy haven located in an exclusive neighborhood! With a picturesque setting and a price tag of $4,270,000, this house is a true gem! 🤩
+
+📏 Spanning across an impressive 4500 sq.ft, this 1-story retreat offers ample space and modern elegance. Perfectly suited for your needs, it boasts 2 spacious bedrooms, ideal for cozy nights and ultimate comfort. 🛏️🛏️
+
+💦 Indulge in the luxury of a beautifully designed bathroom, featuring top-notch fixtures and a serene ambiance. 🚿
+
+🌿 Discover the ease of single-story living, with no stairs to worry about! This thoughtfully designed house ensures utmost convenience and flexibility. 🏡
+
+🛣️ Situated on a prime location with easy access to the main road, this property provides seamless connectivity to all amenities and city attractions. 🚗
+
+❄️ Stay cool year-round! With a fully functional air conditioning system, you can enjoy a comfortable atmosphere regardless of the weather outside. 🌬️
+
+🚗 Never worry about parking again! With ample space for two cars, hosting friends and family will be a breeze! 🚘🚘
+
+🏢 Looking for a guest room or basement? Although this house doesn't include those features, it offers the perfect opportunity for customization and personalization to fit your unique requirements. 🛋️
+
+🌟 Imagine coming home every day to this stunning furnished house! Whether you are a first-time buyer or a seasoned homeowner, this beauty is sure to steal your heart. 💕
+
+⭐️ Act fast! This listing won't stay on the market for long. Schedule a viewing and start making plans to turn this house into your dream home! ✨✨ #RealEstateGems #DreamHome #ForSale
+image's path for this post:imgs_for_test/imgs_for_test1702226174.984736.jpeg
+image's url for this post:https://oaidalleapiprodscus.blob.core.windows.net/private/org-pgyBwcrwLrPGPe2MqJsJEa4Y/user-Wd0rtpWf1seldtUvzFnTzElX/img-PLPRMpzMhVz4eZuXDAEPcYls.png?st=2023-12-10T15%3A36%3A27Z&se=2023-12-10T17%3A36%3A27Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-09T23%3A13%3A40Z&ske=2023-12-10T23%3A13%3A40Z&sks=b&skv=2021-08-06&sig=oFjs72vtft0juOQEZMAZ9ONOebnYXSHNX6OF/6H1ZJI%3D
+
+
+
